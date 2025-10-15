@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @VheyvanHabibie
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 Reach me in vheyvanhabibi@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+press [F] to pay respect
 
 <!---
 VheyvanHabibie/VheyvanHabibie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
