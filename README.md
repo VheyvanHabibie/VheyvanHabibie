@@ -27,5 +27,6 @@ to escape the esports industry roaming in my career timeline.
 
 feel free to check out my repos or hit me up if you've got something worth building. 
 
-also find me on steam ![sticker](./mwehehe.gif)
+![sticker](./mwehehe.gif)
+also find me on steam
 https://steamcommunity.com/id/Nieuwenhuijzen/
