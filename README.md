@@ -1,4 +1,4 @@
-![sticker](./st.gif)
+![sticker](./st.gif width="200")
 
 # vheyvan
 
