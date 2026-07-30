@@ -1,5 +1,4 @@
-![sticker](./macarena.gif) ![sticker](./macarena.gif) ![sticker](./macarena.gif)
-
+![sticker](./macarena.gif) ![sticker](./macarena.gif)
 # vheyvan
 
 **full-stack builder** | ex-esports | runs communities on the side
