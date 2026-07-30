@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td width="100%" style="background: url('https://raw.githubusercontent.com/VheyvanHabibie/VheyvanHabibie/main/assets/CoH.gif') center/cover no-repeat; padding: 40px; border-radius: 8px; color: #fff; font-family: Arial, sans-serif;">
+    <td width="100%" style="background: linear-gradient(135deg, rgba(139, 0, 0, 0.9) 0%, rgba(0, 0, 0, 0.95) 100%); padding: 40px; border-radius: 8px; color: #fff; font-family: Arial, sans-serif;">
 
 # vheyvan
 
