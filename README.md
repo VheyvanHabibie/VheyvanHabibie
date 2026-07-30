@@ -1,4 +1,4 @@
-<div style="background: linear-gradient(135deg, #8B0000 0%, #1a1a1a 100%); padding: 40px 20px; border-radius: 8px; color: #fff;">
+![sticker](./st.gif)
 
 # vheyvan
 
@@ -27,5 +27,3 @@ to escape the esports industry roaming in my career timeline.
 ---
 
 feel free to check out my repos or hit me up if you've got something worth building.
-
-</div>
