@@ -1,6 +1,4 @@
-<table>
-  <tr>
-    <td width="100%" style="background: linear-gradient(135deg, rgba(139, 0, 0, 0.9) 0%, rgba(0, 0, 0, 0.95) 100%); padding: 40px; border-radius: 8px; color: #fff; font-family: Arial, sans-serif;">
+<div style="background: linear-gradient(135deg, #8B0000 0%, #1a1a1a 100%); padding: 40px 20px; border-radius: 8px; color: #fff;">
 
 # vheyvan
 
@@ -30,6 +28,4 @@ to escape the esports industry roaming in my career timeline.
 
 feel free to check out my repos or hit me up if you've got something worth building.
 
-    </td>
-  </tr>
-</table>
+</div>
